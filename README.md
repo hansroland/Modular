@@ -6,8 +6,8 @@
 [license-badge]: https://img.shields.io/badge/license-BSD3-green.svg?dummy
 [license]: https://github.com/hansroland/ModularArithmetic/blob/master/LICENSE
 
-[build-badge]: https://travis-ci.org/hansroland/ModularArithmetic.svg?branch=master
-[build-result]: https://travis-ci.org/hansroland/ModularArithmetic
+[build-badge]: https://travis-ci.org/hansroland/Modular.svg?branch=master
+[build-result]: https://travis-ci.org/hansroland/Modular
 
 
 A simple type safe implementation of modular arithmetic as used in number theory. 

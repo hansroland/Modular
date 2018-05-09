@@ -1,5 +1,6 @@
-resolver: lts-10.0
+resolver: lts-11.2
 flags: {}
 packages:
 - '.'
-extra-deps: []
+extra-deps: 
+- doctest-discover-0.1.0.9
